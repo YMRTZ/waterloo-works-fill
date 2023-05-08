@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "WaterlooWorks Fill",
+    "version": "0.0.1",
+    "content_scripts": [
+        {
+            "js": ["scripts/content.js"],
+            "matches": [
+                "*://*/*"
+            ]
+        }
+    ],
+    "action": {
+        "default_popup": "html/home.html"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["storage"]
+}
