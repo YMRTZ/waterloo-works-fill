@@ -10,7 +10,7 @@ Autofill for WaterlooWorks applications, because nobody likes manually filling i
 6. Navigate to the cloned repo and press "OK"
 
 **USAGE**
->Default Resume Name: The name of the default resume to be used
->Use Default Resume?: Whether or not to autofill the resume field (RECOMMENDED)
->Default Cover Letter Name: The name of the default cover letter to be used
->Use Defualt Cover Letter?: Whether or not to autofill the cover letter field
+- Default Resume Name: The name of the default resume to be used
+- Use Default Resume?: Whether or not to autofill the resume field (RECOMMENDED)
+- Default Cover Letter Name: The name of the default cover letter to be used
+- Use Defualt Cover Letter?: Whether or not to autofill the cover letter field
