@@ -6,15 +6,12 @@
         {
             "js": ["scripts/content.js"],
             "matches": [
-                "*://*/*"
+                "https://waterlooworks.uwaterloo.ca/*"
             ]
         }
     ],
     "action": {
         "default_popup": "html/home.html"
-    },
-    "background": {
-        "service_worker": "background.js"
     },
     "permissions": ["storage"]
 }
